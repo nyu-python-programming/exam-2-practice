@@ -1,5 +1,5 @@
 """
-Exam #1 / Problem set #3.
+Exam #2 / Problem set #3.
 - Your job is to complete the definitions of each function so that it achieves its indicated behavior.
 - You are welcome to create any additional functions you desire.
 - Do not write any code in the global scope, i.e. do not write code that is not within a function definition.
