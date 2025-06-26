@@ -1,4 +1,4 @@
-# Exam 2
+# Exam 2 Practice
 
 Welcome! Your job is to complete all the function definitions mentioned in the problem set files such that they meet the state requirements:
 
