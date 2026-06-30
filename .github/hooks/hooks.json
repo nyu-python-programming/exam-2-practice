@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "hooks": {
+    "PostToolUse": [
+      {
+        "type": "command",
+        "matcher": "edit|create|str_replace_editor|apply_patch|write",
+        "command": "python3 .automations/give-student-credit.py --tool=copilot --event=PostToolUse || python .automations/give-student-credit.py --tool=copilot --event=PostToolUse"
+      }
+    ]
+  }
+}

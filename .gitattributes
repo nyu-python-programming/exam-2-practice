@@ -1,0 +1,8 @@
+# Pin line endings so instrumentation-file hashes (baseline_manifest.json) are
+# identical on every machine -- instructor or student, macOS / Linux / Windows.
+# Without this, Git for Windows (core.autocrlf) rewrites LF->CRLF on checkout and
+# the tamper-detection baseline would false-flag honest submissions.
+* text=auto eol=lf
+
+# Windows batch launcher must keep CRLF to run correctly.
+*.bat text eol=crlf

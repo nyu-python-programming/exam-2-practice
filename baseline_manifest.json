@@ -1,0 +1,13 @@
+{
+  ".automations/autosave.py": "46735bf35c48e111cb10210014cdce45f77d30de33f02da31b7bc2c0b905b647",
+  ".automations/give-student-credit.py": "cad1c1f94c62c6a0df3d3601932d611abb7b9f12bec869e8490eec862efb721c",
+  ".claude/settings.json": "d372343f4b6d7b6d0ef7b9772ba722309ede16085921baccaca8c48cbc6685d5",
+  ".cursor/hooks.json": "c97ded4961beac465ce02f5bb3d32152af5a28a03e2fa73ee18bdbe74f0da55f",
+  ".githooks/commit-msg": "5bd33f7bb2eea74d483bcf9cf3f71a20cb2916d42f834e64a888de36d9847720",
+  ".github/hooks/hooks.json": "42093764a147a0daa3956588527852a62b1a9441f1bb54d2a4ade1f6092d0c22",
+  ".github/workflows/event-logger.yml": "5e2ec55ef4f79bd8f471b794441db1940603c11a4b74869ef1492670fb03842c",
+  ".vscode/tasks.json": "412af1ad00905070d725232e80fa71fc78e22c29a9769be1e7bd129032185cdb",
+  "Start-Exam-Autosave.bat": "d48bd6e03d52f09d257c613308fae7db0d0b7c594cf165007e72df5ba039ce3f",
+  "Start-Exam-Autosave.command": "24b3701eb55aec88700ea2cbf7102bb53ce48175fc7600b4ea6096d30bf8fd86",
+  "Start-Exam-Autosave.sh": "67a2cf73357459ff017a8fda1a04f3e31845d61e5eae8f85fb0785b94384cf0f"
+}
