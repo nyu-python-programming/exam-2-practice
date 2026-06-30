@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Exam Autosave",
+      "detail": "Required: saves your exam work to GitHub. Keep this terminal open.",
+      "type": "shell",
+      "command": "python3 .automations/autosave.py || python .automations/autosave.py",
+      "windows": {
+        "command": "python .automations\\autosave.py || py .automations\\autosave.py"
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "focus": false,
+        "echo": false,
+        "showReuseMessage": false
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
