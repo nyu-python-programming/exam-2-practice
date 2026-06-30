@@ -7,7 +7,7 @@
       "type": "shell",
       "command": "python3 .automations/autosave.py || python .automations/autosave.py",
       "windows": {
-        "command": "python .automations\\autosave.py"
+        "command": "python .automations\\autosave.py || py .automations\\autosave.py"
       },
       "presentation": {
         "reveal": "always",
